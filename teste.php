@@ -1,4 +1,6 @@
 <?php
 
-    echo "Vai cortinhians";
+    echo "Vai Corinthians";
+
+    echo "Vai Corinthians!";
 ?>

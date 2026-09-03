@@ -7,5 +7,6 @@
     $nome = "Bruno";
     if($nome === "Bruno"){
         echo "Professor!";
+        echo "Fiz cagada!";
     }
 ?>
